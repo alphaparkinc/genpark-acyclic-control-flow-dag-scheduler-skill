@@ -1,0 +1,15 @@
+{
+  "name": "genpark-acyclic-control-flow-dag-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Acyclic instruction list scheduler ordering basic block dependence graphs by critical path latency to eliminate pipeline stalls.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "instruction-scheduling",
+    "dag-scheduling",
+    "pipelining",
+    "compilers"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
